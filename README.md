@@ -4,14 +4,14 @@ This repository contains a synthetic dataset of personal protective equipment (P
 
 ## Key Features
 - **Models Used**: Stable Diffusion 1.5 and SDXL.
-- 
+  
 - **Sampling Methods**: 
   - Euler
   - Euler A
   - DDIM
   - DPM++
  
-  - **Categories**: 
+ - **Categories**: 
   - Images with safety vests.
   - Images without safety vests.
 
