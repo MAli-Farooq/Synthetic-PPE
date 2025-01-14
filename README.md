@@ -11,7 +11,7 @@ This repository contains a synthetic dataset of personal protective equipment (P
   - DDIM
   - DPM++
  
- - **Categories**: 
+- **Categories**: 
   - Images with safety vests.
   - Images without safety vests.
 
