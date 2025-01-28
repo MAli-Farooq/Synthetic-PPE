@@ -1,4 +1,4 @@
-# Novel Synthetic PPE Dataset
+# Novel Synthetic PPE Dataset (SynPPE)
 
 This repository contains a synthetic dataset of personal protective equipment (PPE) images generated using advanced diffusion models, including **Stable Diffusion 1.5** and **Stable Diffusion XL (SDXL)**. 
 
